@@ -11,9 +11,18 @@ I'm Edzel James D. Mendoza, BSIT-3, Central Philippines University
 
  cj
 # jericTest
+ jeric
+ Updated upstream
+test1
+test2
+
+Jeric
+ Stashed changes
+
 CJ
 
 Hi there 👋
 I'm Jay-r Lagaña, BSIT-3, Central Philippines University
+ main
  main
  main
